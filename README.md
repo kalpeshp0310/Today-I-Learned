@@ -20,7 +20,11 @@ A collection of concise write-ups on small things I learn day to day across a va
 * [RxJava - Basics, Types of Observables, Types of Operators](https://github.com/anitaa1990/RxAndroid-Sample)
 * [RxJava - Subjects and different types of Subjects](https://github.com/anitaa1990/RxAndroid-Sample/blob/master/README.md#subjects-and-different-types-of-subjects)
 * [How to handle api error using RxJava Subjects](https://github.com/anitaa1990/RxNetworkEvent-Example)
-* [How to change the height of a view using animation](android/slide_animation.md)
+* [How to change the height of a view using animation](/android/slide_animation.md)
+* [ImageFilterView in ConstraintLayout 2.0](/android/android_image_filter_view.md)
+* [Create a Background Switcher View using ImageSwitcher](/android/background_switcher.md)
+* [RecyclerView Pagination without Paging Library](/android/android_pagination.md)
+* [NetworkBoundSource implementation from Google Android Architecture Components Sample](/android/networkboundsource.md)
 
 
 ### iOS
